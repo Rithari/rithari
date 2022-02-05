@@ -9,8 +9,8 @@
 - 💬 I speak 🇮🇹, 🇩🇪 (🇨🇭) and 🇬🇧!
 
 Here's a quick overview of ongong and planned endeavours
-- 🔭 I'm currently working on applying design patterns to my projects
-- 🌱 I'm currently learning more about the world outside of conventional academic software
+- 🔭 I'm currently working on building a really cool portfolio project
+- 🌱 I'm currently learning more advanced concepts of programming
 
 ## Here's what I can do 
 
