@@ -4,13 +4,10 @@
 ## Elevator pitch 
 
 - 📚 I'm a 21 y.o. computer science student at the [University of Turin](unito.it).
-- 👨🏻‍💻 I love developing software. I've always loved it. Ever since I was little it has inspried me to try new things and expand my horizons. I focus on making more script-esque applications but I also enjoy working on small web and mobile applications.
+- 👨🏻‍💻 I love developing software. I've always loved it. Ever since I was little it has inspried me to try new things and expand my horizons. I focus on making more script-esque applications but I also enjoy working on web and mobile applications.
 - 🎵 I play the clarinet and find that classical music is my go-to for unwinding.
 - 💬 I speak 🇮🇹, 🇩🇪 (🇨🇭) and 🇬🇧!
 
-Here's a quick overview of ongong and planned endeavours
-- 🔭 I'm currently working on building a really cool portfolio project
-- 🌱 I'm currently learning more advanced concepts of programming
 
 ## Here's what I can do 
 
